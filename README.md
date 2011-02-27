@@ -7,4 +7,4 @@ http://chrome.blogspot.com/2011/02/new-chrome-extension-block-sites-from.html
 
 The extension allows you to define a personal list of websites you'd like to exclude from your search result.
 
-Here's a list of websites I finally can say goodbye. Contributions are more than welcome.
+Here's a list of websites I can finally say goodbye. Contributions are more than welcome.
